@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "TAILWIND_MODE=watch postcss -i tailwind.css -o build.css --watch",
-    "build": "postcss -i tailwind.css -o build.css",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {

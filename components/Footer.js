@@ -3,7 +3,7 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-y-10 bg-gray-100 px-32 py-14 border-t text-gray-600">
             <div className="space-y-4 text-xs text-gray-800">
             <h5 className="font-bold">ABOUT</h5>
-            <p className="cursor-pointer">How Airbnb works</p>
+            <p className="cursor-pointer">How Airbnb Works</p>
             <p className="cursor-pointer">Newsroom</p>
             <p className="cursor-pointer">Investors</p>
             <p className="cursor-pointer">Airbnb Plus</p>
@@ -13,7 +13,7 @@ function Footer() {
             <div className="space-y-4 text-xs text-gray-800">
             <h5 className="font-bold">COMMUNITY</h5>
             <p className="cursor-pointer">Accessibility</p>
-            <p className="cursor-pointer">This is not a real site</p>
+            <p className="cursor-pointer">This Is Not A Real Site</p>
             <p className="cursor-pointer">But it's awesome</p>
             <p className="cursor-pointer">Referrals accepted</p>
             <p className="cursor-pointer">Jason Rillera</p>

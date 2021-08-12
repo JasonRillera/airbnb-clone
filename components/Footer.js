@@ -14,8 +14,8 @@ function Footer() {
             <h5 className="font-bold">COMMUNITY</h5>
             <p className="cursor-pointer">Accessibility</p>
             <p className="cursor-pointer">This Is Not A Real Site</p>
-            <p className="cursor-pointer">But it's awesome</p>
-            <p className="cursor-pointer">Referrals accepted</p>
+            <p className="cursor-pointer">But It's Awesome</p>
+            <p className="cursor-pointer">Referrals Accepted</p>
             <p className="cursor-pointer">Jason Rillera</p>
             </div>
     
@@ -23,7 +23,7 @@ function Footer() {
             <h5 className="font-bold">HOST</h5>
             <p className="cursor-pointer">Jason Rillera</p>
             <p className="cursor-pointer">Presents</p>
-            <p className="cursor-pointer">A cool Airbnb Site</p>
+            <p className="cursor-pointer">A Cool Airbnb Site</p>
             <p className="cursor-pointer">Made with</p>
             <p className="cursor-pointer">Tailwind CSS</p>
             </div>
@@ -34,7 +34,7 @@ function Footer() {
             <p className="cursor-pointer">Trust & Safety</p>
             <p className="cursor-pointer">Say Hello</p>
             <p className="cursor-pointer">World</p>
-            <p className="cursor-pointer">For the Win</p>
+            <p className="cursor-pointer">For The Win</p>
             </div>
         </div>
         );

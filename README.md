@@ -5,7 +5,7 @@ This Airbnb App is a completely mobile responsive website using Next JS and Tail
 ## Features
 
 - Integrated a Calendar Picker API to select vacation dates and how many individuals with ease
--
+- Mapbox API Integration to locate cordinates of Airbnb Homes
 -
 
 ## Author

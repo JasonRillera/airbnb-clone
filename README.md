@@ -1,12 +1,11 @@
 # Airbnb UK Inspired Clone
-
-This Airbnb App is a completely mobile responsive website using Next JS and Tailwind CSS. It utalizes a calendar picker to choose your vacations dates and Mapbox integration to see where you can potentailly stay.
+This Airbnb App is built with Next JS and Tailwind CSS to fully utilize the power of React JS. It makes use of a Calendar Date Picker library and Mapbox technology to display your next potential vacation home.
 
 ## Features
+- Redesigned a completely responsive online accommodation marketplace application with Next JS and Tailwind CSS for a friendly UX/UI
+- Integrated a Calendar within the search bar using the react-date-range library to pick dates of stay and number of guests
+- Utilization of the Mapbox API to interactively present locations from the search results with custom markers and display information
 
-- Integrated a Calendar Picker API to select vacation dates and how many individuals with ease.
--
 
 ## Author
-
 Jason Rillera: https://github.com/JasonRillera

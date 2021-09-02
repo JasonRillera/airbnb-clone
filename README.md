@@ -11,3 +11,7 @@ This Airbnb App is built with Next JS and Tailwind CSS to fully utilize the powe
 ## Author
 
 Jason Rillera: https://github.com/JasonRillera
+
+## [Live Demo Link](https://airbnb-clone-six-omega.vercel.app/)
+
+![Google Docs Medium Gif](airbnbgif.gif)

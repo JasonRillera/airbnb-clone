@@ -15,5 +15,3 @@ Jason Rillera: https://github.com/JasonRillera
 ## [Live Demo Link](https://airbnb-clone-six-omega.vercel.app/)
 
 ![Google Docs Medium Gif](airbnbgif.gif)
-
-##

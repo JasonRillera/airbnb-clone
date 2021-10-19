@@ -1,4 +1,4 @@
-# Airbnb UK Clone
+# Airbnb Clone
 
 This Airbnb App is built with Next JS and Tailwind CSS to fully utilize the power of React JS. It makes use of a Calendar Date Picker library and Mapbox technology to display your next potential vacation home.
 
